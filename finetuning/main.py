@@ -1,6 +1,8 @@
-## https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/df1f5ef1c1a8e1a111e88281b27829fe/finetuning_torchvision_models_tutorial.ipynb#scrollTo=WgmqwBCaEAIG
-# Finetuning Torchvision Models
-
+"""
+Finetuning Torchvision Models
+=============================
+Base code belongs to the author `Nathan Inkawhich <https://github.com/inkawhich>`__
+"""
 import sys
 
 sys.path.append("..")
